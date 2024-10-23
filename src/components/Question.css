@@ -1,0 +1,43 @@
+#question {
+  text-align: center;
+  max-width: 550px;
+}
+
+#question h2,
+#question p {
+  margin-bottom: 1rem;
+}
+
+#question h2 {
+  display: flex;
+  padding: 10px;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6c3e;
+  height: 180px;
+  width: 480px;
+  border-radius: 10px 10px 10px 30px;
+}
+#question-back {
+  background-color: #00a3ff;
+  padding: 10px;
+  border-radius: 15px;
+  width: 500px;
+  position: relative;
+}
+
+#group {
+  position: absolute;
+  top: 1px;
+  right: 10px;
+}
+
+#question p {
+  color: #000;
+  font-size: 1.2rem;
+}
+
+#question img {
+  margin-top: 2rem;
+}
