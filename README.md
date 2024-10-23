@@ -36,6 +36,3 @@ Se você deseja rodar o projeto localmente, siga os passos abaixo:
 3. Execute o servidor de desenvolvimento:
    ```bash
    npm run dev
-
-
-
